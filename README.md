@@ -13,7 +13,7 @@ I'm best reached via [email](shubhamingale2303@gmail.com). I'm always open to in
 
 
 ---
-[![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-Follow-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/ingale-shubham/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/ingale-shubham/)
 
 
 <!--
