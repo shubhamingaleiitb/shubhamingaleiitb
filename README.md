@@ -14,6 +14,7 @@ I'm best reached via [email](shubhamingale2303@gmail.com). I'm always open to in
 
 ---
 [![LinkedIn Follow](https://img.shields.io/linkedin/follow/ingale-shubham?label=Follow&style=social)](https://www.linkedin.com/in/ingale-shubham/)
+
 <!--
 **shubhamingaleiitb/shubhamingaleiitb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
